@@ -9,7 +9,7 @@ I am a seasoned Flutter developer, dedicated to pushing the boundaries of mobile
 
 ### 💻 Tech Stack
 
-- **https://icons8.com/icon/7I3BjCqe9rjG/flutter Flutter:**    ⭐️⭐️⭐️⭐️⭐️  (5/5)
+-![image](https://github.com/XcyzerZero/XcyzerZero/assets/53414581/91dd217c-0ae9-4e46-be48-1aa77c9d960f)**Flutter:**    ⭐️⭐️⭐️⭐️⭐️  (5/5)
 - **Dart:**       ⭐️⭐️⭐️⭐️⭐️  (5/5)
 - **Firebase:**   ⭐️⭐️⭐️⭐️✩  (4/5)
 - **Java:**       ⭐️⭐️⭐️⭐️✩  (4/5)
