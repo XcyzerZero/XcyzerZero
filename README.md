@@ -1,4 +1,5 @@
-<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/c78bc3b0-d710-4307-818d-9c2bee88d4a0" width="800" height="400" alt="Banner Description">
+<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/f50a6cd3-7415-450e-9218-8f8a896c99e1" width="800" height="400" alt="Banner Description">
+
 
 
 
