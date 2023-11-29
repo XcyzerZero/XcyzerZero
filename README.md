@@ -9,21 +9,14 @@ I am a seasoned Flutter developer, dedicated to pushing the boundaries of mobile
 
 ### 💻 Tech Stack
 
-**Flutter**: My primary framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
-
-**Dart**: The language that powers Flutter, enabling me to create high-performance applications with expressive and concise code.
-
-**Firebase**: Proficient in utilizing Firebase services for real-time databases, authentication, cloud functions, and hosting, enhancing the functionality and scalability of applications.
-
-**Java**: Well-versed in Java, a versatile programming language often used in Android app development.
-
-**Figma**: Adept at using Figma for seamless collaboration in the design and prototyping phase, ensuring a cohesive and user-centric application experience.
-
-.**NET**: Familiar with .NET technologies, providing a robust and scalable framework for developing a variety of applications.
-
-**Version** Control (Git): Experienced in version control systems, particularly Git, for efficient collaboration and code management.
-
-**BLoC State Management**: Proficient in implementing BLoC (Business Logic Component) pattern for state management in Flutter applications, ensuring a clean and maintainable code structure.
+- **Flutter:** ⭐️⭐️⭐️⭐️⭐️ (5/5)
+- **Dart:** ⭐️⭐️⭐️⭐️✩ (4.5/5)
+- **Firebase:** ⭐️⭐️⭐️⭐️✩ (4/5)
+- **Java:** ⭐️⭐️⭐️⭐️✩ (4/5)
+- **Figma:** ⭐️⭐️⭐️✩✩ (3/5)
+- **.NET:** ⭐️⭐️⭐️✩✩ (3/5)
+- **Git:** ⭐️⭐️⭐️⭐️✩ (4/5)
+- **BLoC:** ⭐️⭐️⭐️⭐️⭐️ (5/5)
 
 ### 🌐 Connect with Me
 **GitHub:** https://github.com/XcyzerZero
