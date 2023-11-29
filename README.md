@@ -35,5 +35,5 @@ width="25" height="25" alt="Image Description"> **Git:**        ⭐️⭐️⭐�
 width="25" height="25" alt="Image Description"> **BLoC:**       ⭐️⭐️⭐️⭐️⭐️  (5/5)
 
 ### 🌐 Connect with Me
-**GitHub:** https://github.com/XcyzerZero
-**Email:** janedilbertsolomon@gmail.com 
+- **GitHub:** https://github.com/XcyzerZero
+- **Email:** janedilbertsolomon@gmail.com 
