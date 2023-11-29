@@ -9,9 +9,9 @@ I am a seasoned Flutter developer, dedicated to pushing the boundaries of mobile
 
 ### 💻 Tech Stack
 
-<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/91dd217c-0ae9-4e46-be48-1aa77c9d960f" width="50" height="50" alt="Image Description">
+<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/91dd217c-0ae9-4e46-be48-1aa77c9d960f" width="10" height="10" alt="Image Description">
 
-- <img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/91dd217c-0ae9-4e46-be48-1aa77c9d960f" width="50" height="50" alt="Image Description">**Flutter:**    ⭐️⭐️⭐️⭐️⭐️  (5/5)
+- <img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/91dd217c-0ae9-4e46-be48-1aa77c9d960f" width="10" height="10" alt="Image Description">**Flutter:**    ⭐️⭐️⭐️⭐️⭐️  (5/5)
 - **Dart:**       ⭐️⭐️⭐️⭐️⭐️  (5/5)
 - **Firebase:**   ⭐️⭐️⭐️⭐️✩  (4/5)
 - **Java:**       ⭐️⭐️⭐️⭐️✩  (4/5)
