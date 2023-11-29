@@ -1,4 +1,4 @@
-<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/641b87dc-bea6-475e-909c-20a535ca863b" width="800" height="1000" alt="Banner Description">
+<img src="https://github.com/XcyzerZero/XcyzerZero/assets/53414581/641b87dc-bea6-475e-909c-20a535ca863b" width="800" height="400" alt="Banner Description">
 
 
 ### Hi there 👋, I'm JaESon From The Philippines
